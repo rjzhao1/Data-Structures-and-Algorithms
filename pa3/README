@@ -1,0 +1,13 @@
+//Ricky Zhao
+//Rjzhao
+//pa3
+
+Files Submitted includes:
+Sparse.java		-take a file and turn it into a nxn Matrix and 
+				uses the Matrix ADT
+Matrix.java		-An ADT the creates a n x n Matrix
+List.java		-A Doubly Linked List ADT for Objects
+MatrixTest.java	-Test for the Matrix ADT
+ListTest.java	-Test for the List ADT
+Makefile		-compiles the files and make an executable file
+README			-List of the files submitted
