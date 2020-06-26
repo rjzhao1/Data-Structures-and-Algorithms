@@ -1,0 +1,11 @@
+Ricky Zhao
+rjzhao
+pa1
+
+The files submitted are:
+List.java	-Implements a List ADT that uses a doubly linked-list
+ListClient.java	-A test for List.java
+Lex.java	-A program that puts the string of a file into an array and put the indicies of
+		 the array into a List in alphabetical order.
+Makefile	-compiles the files and make an executable file named Lex 
+README		-Table of Content for pa1
