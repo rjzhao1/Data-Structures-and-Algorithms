@@ -1,0 +1,13 @@
+Ricky Zhao
+rjzhao
+pa2
+
+The files submitted are:
+List.c			-Implements a List ADT that uses a doubly linked-list
+List.h			-header file for List ADT
+ListClient.c	-A test for List.c
+Lex.c			-A program that puts the string of a file into an array and put the indicies of
+				the array into a List in alphabetical order.
+Makefile		-compiles the files and make an executable file named Lex 
+README			-Table of Content for pa2
+
