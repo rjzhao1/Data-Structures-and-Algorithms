@@ -1,0 +1,15 @@
+Ricky Zhao
+Rjzhao
+pa5
+
+The submitted files include:
+List.c		-Implements a List ADT that uses a doubly linked-list
+List.h		-header file for List ADT
+Graph.c		-Implements a Graph ADT that simulates a Depth-frist search 
+			 Algorithm
+Graph.h		-header file for Graph ADT
+GraphTest.c	-A program that test the functions of the Graph ADT
+FindPath.c	-A program that creates a graph and find the strongly connected components
+		of the Graph.
+Makefile	-compiles the files and make an executable file named FindComponent 
+README 		-Table of Content for pa5
